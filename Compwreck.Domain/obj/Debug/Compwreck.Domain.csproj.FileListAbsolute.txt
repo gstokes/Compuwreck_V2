@@ -1,0 +1,10 @@
+D:\Compuwreck_V2\Compwreck.Domain\bin\Debug\Compwreck.Domain.dll.config
+D:\Compuwreck_V2\Compwreck.Domain\bin\Debug\Compwreck.Domain.dll
+D:\Compuwreck_V2\Compwreck.Domain\bin\Debug\Compwreck.Domain.pdb
+D:\Compuwreck_V2\Compwreck.Domain\bin\Debug\EntityFramework.dll
+D:\Compuwreck_V2\Compwreck.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Compuwreck_V2\Compwreck.Domain\bin\Debug\EntityFramework.xml
+D:\Compuwreck_V2\Compwreck.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Compuwreck_V2\Compwreck.Domain\obj\Debug\Compwreck.Domain.csprojResolveAssemblyReference.cache
+D:\Compuwreck_V2\Compwreck.Domain\obj\Debug\Compwreck.Domain.dll
+D:\Compuwreck_V2\Compwreck.Domain\obj\Debug\Compwreck.Domain.pdb
